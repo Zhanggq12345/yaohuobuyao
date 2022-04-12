@@ -1,0 +1,13 @@
+{
+  "description": "项目配置文件",
+  "packOptions": {
+    "ignore": []
+  },
+  "setting": {
+    "useOldBuilder": false
+  },
+  "compileType": "miniprogram",
+  "appid": "62537d303eb8ce0001b774ba",
+  "projectname": "yaohuobuyao",
+  "isGameTourist": false
+}

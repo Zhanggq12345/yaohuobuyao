@@ -1,0 +1,30 @@
+/**index.ftss**/
+
+.box {
+  position: relative;
+  z-index: 1;
+  margin-top: 10px;
+  height:300px;
+  width:100%;
+
+  
+}
+
+.daojs{
+  z-index: 2;
+  font-size:100rpx;
+  color:blue;
+  margin: auto;
+  text-align: center;
+}
+.chouse{
+   margin-top:10px;
+   height:200px; 
+   width:100%;
+ 
+}
+ button {
+  margin:auto;
+  margin-top:30px;
+
+}

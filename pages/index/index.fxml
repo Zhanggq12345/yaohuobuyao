@@ -1,0 +1,14 @@
+<!--index.ftml-->
+
+   <view class="box" >
+   <image src="{{srcimgpath}}"/>
+   <view class="daojs">
+     {{dajishi}}
+   </view>
+   </view>
+ 
+   <view class="chouse">
+     <button type="default" size="defaultSize"  plain="plain}"  bindtap="bindOpenBox" hover-class="defaultTap">要</button>
+     <button type="default" size="defaultSize"  plain="plain}"  bindtap="defaultTap" hover-class="defaultTap">不要</button>
+   </view>
+
